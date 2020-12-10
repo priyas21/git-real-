@@ -1,2 +1,1 @@
-@2020 envy lab corporation
-
+The version of license was added on 10th December 2020
