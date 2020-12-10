@@ -1,5 +1,7 @@
 This file will have instructions
 Now i can sleep
+
+Cake is telling the truth
 <<<<<<< HEAD
 =======
 Hi, I am changing you again!
